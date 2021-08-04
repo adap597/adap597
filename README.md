@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adap597
-- 👀 I'm interested in full stack development
+- 👀 I'm interested in full stack web development and data engineering.
 
 
 <!---
